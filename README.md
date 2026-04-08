@@ -3,9 +3,9 @@
 Repositori ini berisi penyelesaian tugas mengenai penggunaan berbagai jenis operator dalam bahasa pemrograman Python.
 
 ## Biodata Mahasiswa
-* **Nama:** Defa Dinah
-* **NIM:** [Masukkan NIM Anda]
-* **Kelas:** TI-25
+* **Nama:** Defa Dinah Alfarist
+* **NIM:** 20250040125
+* **Kelas:** TI-25-G
 
 ## Daftar Tugas
 1. Operator Aritmatika
