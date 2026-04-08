@@ -18,5 +18,4 @@ Repositori ini berisi penyelesaian tugas mengenai penggunaan berbagai jenis oper
 8. Operator Ternary
 
 ## Cara Menjalankan
-Pastikan Anda sudah menginstal Python atau Anaconda, lalu jalankan perintah:
-`python nama_file_anda.py`
+Pastikan Anda sudah menginstal Python atau Anaconda
